@@ -12,4 +12,4 @@ using HelloCSharp;
 //Level1Programs.Factorial.Run();
 //TourOfCSharp.Program.Main();
 //Level1Programs.Strong.Run();
-Level1Programs.Perfect.Run();
+Level1Programs.Perfect.run();

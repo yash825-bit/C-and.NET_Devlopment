@@ -12,3 +12,4 @@ D:\Backend_dev_withC#and.NET\HelloCSharp\obj\Debug\net10.0\refint\HelloCSharp.dl
 D:\Backend_dev_withC#and.NET\HelloCSharp\obj\Debug\net10.0\HelloCSharp.pdb
 D:\Backend_dev_withC#and.NET\HelloCSharp\obj\Debug\net10.0\HelloCSharp.genruntimeconfig.cache
 D:\Backend_dev_withC#and.NET\HelloCSharp\obj\Debug\net10.0\ref\HelloCSharp.dll
+D:\Backend_dev_withC#and.NET\HelloCSharp\obj\Debug\net10.0\HelloCSharp.sourcelink.json
