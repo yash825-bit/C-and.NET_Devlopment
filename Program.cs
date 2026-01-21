@@ -12,4 +12,7 @@ using HelloCSharp;
 //Level1Programs.Factorial.Run();
 //TourOfCSharp.Program.Main();
 //Level1Programs.Strong.Run();
-Level1Programs.Perfect.run();
+//Level1Programs.Perfect.run();
+//Level2Programs.EvenOdd.Run();
+//Level2Programs.MaxOf3.Run();
+Level2Programs.SumOfNumbers.Run();
